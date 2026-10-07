@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!distribution/
+!distribution/**
+!updates/
+!updates/**
