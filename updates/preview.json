@@ -1,0 +1,15 @@
+{
+  "schema": "nudou.github-update.channel.v1",
+  "channel": "preview",
+  "owner": "fengteng814",
+  "repository": "nudou-desktop-pet-releases",
+  "version": "3.57.0.2",
+  "informational_version": "3.57.0.2-preview",
+  "asset_commit": "94f087dae14d56c0d32a5d8fe559804a9ae16711",
+  "asset_filename": "NudouDesktopPet-3.57.0.2-preview-setup.zip",
+  "asset_path": "distribution/preview/3.57.0.2/NudouDesktopPet-3.57.0.2-preview-setup.zip",
+  "asset_sha256": "520168A025C9AF6776B6120E8F11CF881F86A9592EB11221248495DF53D156CF",
+  "asset_bytes": 35544909,
+  "published_utc": "2026-10-07T15:50:00Z",
+  "notes": "屏幕外露边缘自动收边、大头头像图标、每日与手动更新检查；默认公开发行源无需登录。Preview 保留明确安装确认及配置备份，LAN/外部待办禁用。"
+}
