@@ -1,0 +1,33 @@
+{
+  "version": "3.57.0.5",
+  "asset_commit": "a58aeaafd24679a10a3254e4c4093b37bce0d12d",
+  "status": "PASS",
+  "gui": {
+    "sha256": "A55F011721FA1863CC942CBFE0EB142E965A0215E1A93859D9D897675561749A",
+    "bytes": 37236736
+  },
+  "setup_zip": {
+    "sha256": "9191808C9B13917B913C40C576475C077DD40E300FF687FB784F0C29D18DCF25",
+    "bytes": 36773103
+  },
+  "http_counts": {
+    "publication_and_download_validation": 4,
+    "manual_cache_validation": 2,
+    "manual_then_daily_then_manual": [
+      1,
+      1,
+      2
+    ]
+  },
+  "scope": {
+    "publication_and_download_validation": "45 assertions passed: real approved public feed; current 3.57.0.5 UpToDate; previous 3.57.0.2 UpdateAvailable; same-day daily cache; immutable anonymous GUI and ZIP downloads with exact sizes and SHA256",
+    "manual_cache_validation": "21 assertions passed: current real 3.57.0.5 feed; first manual GET, cached same-day daily check without state rewrite, second manual GET bypassing cache",
+    "anonymous": "No supplied credentials, Authorization, cookies, or default credentials",
+    "limits": [
+      "Uses isolated snapshots of the default clock; no day-long wait or system-clock change",
+      "Uses original public source and original HTTP handler; no synthetic remote version or manifest",
+      "Downloaded installers are verified only and never executed",
+      "No product Main, UI, installer launch, configured user state, LAN, NAS, production changes, or remote writes"
+    ]
+  }
+}
