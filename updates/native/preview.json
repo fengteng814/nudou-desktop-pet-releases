@@ -1,0 +1,16 @@
+{
+    "schema":  "nudou.github-update.channel.v2",
+    "channel":  "preview",
+    "owner":  "fengteng814",
+    "repository":  "nudou-desktop-pet-releases",
+    "version":  "3.57.0.7",
+    "informational_version":  "3.57.0.7-preview",
+    "asset_commit":  "c2171cfaabeb6d5a6bc40219ca93cbe105509fa5",
+    "asset_filename":  "NudouDesktopPet-3.57.0.7-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.7/NudouDesktopPet-3.57.0.7-preview-setup.exe",
+    "asset_sha256":  "8FFD9FFF83C2F0E46A3C618F0A1EA2FCC6CA588277A515F6978863F5CC4CC1A1",
+    "asset_bytes":  36885504,
+    "installer_kind":  "nudou-native-exe-v1",
+    "published_utc":  "2026-10-10T21:52:01Z",
+    "notes":  "Native .7 preview wording and version update; feature behavior carried forward from .6. Existing .5 v1-only clients require manual installation of this native .7 installer. Preserve existing identity, configuration and data; retain rollback backup and follow Windows security prompts. Archive ZIP is available separately."
+}
