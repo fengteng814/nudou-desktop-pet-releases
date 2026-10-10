@@ -1,0 +1,20 @@
+{
+  "product": "NudouDesktopPet",
+  "version": "3.57.0.6",
+  "channel": "preview",
+  "informational_version": "3.57.0.6-preview",
+  "assets": [
+    {
+      "filename": "NudouDesktopPet-3.57.0.6-preview-setup.exe",
+      "path": "distribution/preview/3.57.0.6/NudouDesktopPet-3.57.0.6-preview-setup.exe",
+      "bytes": 36886016,
+      "sha256": "6C1BBD1C53AC1073B5067B0F4232D29B946FB8C35E40BD046121996B015A9CFC"
+    },
+    {
+      "filename": "NudouDesktopPet-3.57.0.6-Extract-And-Run.zip",
+      "path": "distribution/preview/3.57.0.6/NudouDesktopPet-3.57.0.6-Extract-And-Run.zip",
+      "bytes": 36756979,
+      "sha256": "CF4A887F7AE0B11077B1320B543B484393B2EAA3CA0B5E2E9752D0393A146328"
+    }
+  ]
+}
