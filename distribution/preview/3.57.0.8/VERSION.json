@@ -1,0 +1,23 @@
+{
+  "version": "3.57.0.8",
+  "channel": "preview",
+  "assembly_informational_version": "3.57.0.8-preview",
+  "application_sha256": "46C675358649FE477EDFF0056D8567A40FFE729C00D9C62186FB92F09ABC0265",
+  "installer_filename": "NudouDesktopPet-3.57.0.8-preview-setup.exe",
+  "installer_sha256": "609772EFC2F3BDDB9059EA359E2605A45C07E87879D06B454DB8693CF46C930D",
+  "installer_bytes": 36886528,
+  "archive_filename": "NudouDesktopPet-3.57.0.8-Extract-And-Run.zip",
+  "archive_sha256": "0C6D81EA9266A1F560EF2BA93EB2162E732D4E4B7D1354B1AF59C07EFEE417B0",
+  "archive_bytes": 36757531,
+  "native_update_installer_kind": "nudou-native-exe-v1",
+  "native_update_feed_schema": "nudou.github-update.channel.v2",
+  "legacy_script_install_allowed": false,
+  "native_preview_feed_url": "https://api.github.com/repos/fengteng814/nudou-desktop-pet-releases/contents/updates/native/preview.json?ref=updates",
+  "legacy_preview_feed_url": "https://api.github.com/repos/fengteng814/nudou-desktop-pet-releases/contents/updates/preview.json?ref=updates",
+  "legacy_preview_version": "3.57.0.5",
+  "one_time_manual_migration_versions": [
+    "3.57.0.5",
+    "3.57.0.6",
+    "3.57.0.7"
+  ]
+}
