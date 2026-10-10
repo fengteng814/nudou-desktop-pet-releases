@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.6",
-    "informational_version":  "3.57.0.6-preview",
-    "asset_commit":  "c32ddfdfc7578eed345302cf7ecbb481668cca77",
-    "asset_filename":  "NudouDesktopPet-3.57.0.6-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.6/NudouDesktopPet-3.57.0.6-preview-setup.exe",
-    "asset_sha256":  "6C1BBD1C53AC1073B5067B0F4232D29B946FB8C35E40BD046121996B015A9CFC",
-    "asset_bytes":  36886016,
+    "version":  "3.57.0.7",
+    "informational_version":  "3.57.0.7-preview",
+    "asset_commit":  "c2171cfaabeb6d5a6bc40219ca93cbe105509fa5",
+    "asset_filename":  "NudouDesktopPet-3.57.0.7-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.7/NudouDesktopPet-3.57.0.7-preview-setup.exe",
+    "asset_sha256":  "8FFD9FFF83C2F0E46A3C618F0A1EA2FCC6CA588277A515F6978863F5CC4CC1A1",
+    "asset_bytes":  36885504,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-10T20:46:27Z",
-    "notes":  "Native .6 installer and paper-plane daily action. Existing .5 v1-only clients require manual installation of this native .6 installer. Preserve existing identity, configuration and data; retain rollback backup and follow Windows security prompts. Archive ZIP is available separately."
+    "published_utc":  "2026-10-10T21:52:01Z",
+    "notes":  "Native .7 preview wording and version update; feature behavior carried forward from .6. Existing .5 v1-only clients require manual installation of this native .7 installer. Preserve existing identity, configuration and data; retain rollback backup and follow Windows security prompts. Archive ZIP is available separately."
 }
