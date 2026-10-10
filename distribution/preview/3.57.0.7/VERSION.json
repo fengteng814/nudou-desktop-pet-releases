@@ -1,0 +1,15 @@
+{
+  "version": "3.57.0.7",
+  "channel": "preview",
+  "assembly_informational_version": "3.57.0.7-preview",
+  "application_sha256": "96F5B33981288FE1FBC826FBA1CD4AA60D21A44A528DE6B0B482317A5C8EFF12",
+  "installer_filename": "NudouDesktopPet-3.57.0.7-preview-setup.exe",
+  "installer_sha256": "8FFD9FFF83C2F0E46A3C618F0A1EA2FCC6CA588277A515F6978863F5CC4CC1A1",
+  "installer_bytes": 36885504,
+  "archive_filename": "NudouDesktopPet-3.57.0.7-Extract-And-Run.zip",
+  "archive_sha256": "0BEF6F4669A0216BEF3A692C21D6FA80D1522DF939097D1498B8B4D45856C3BA",
+  "archive_bytes": 36756432,
+  "native_update_installer_kind": "nudou-native-exe-v1",
+  "native_update_feed_schema": "nudou.github-update.channel.v2",
+  "legacy_script_install_allowed": false
+}
