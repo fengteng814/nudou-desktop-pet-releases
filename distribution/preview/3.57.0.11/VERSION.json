@@ -1,0 +1,28 @@
+{
+  "product": "NudouDesktopPet",
+  "version": "3.57.0.11",
+  "channel": "preview",
+  "assembly_informational_version": "3.57.0.11-preview",
+  "executable": "努豆桌宠.exe",
+  "build_kind": "public-preview-radial-todo-20261016",
+  "release_intent": "public-preview",
+  "publication_state_at_build": "pending-publication",
+  "authoritative_release_source": "https://github.com/fengteng814/nudou-desktop-pet-releases",
+  "authenticode_signed": false,
+  "native_update_installer_kind": "nudou-native-exe-v1",
+  "native_update_feed_schema": "nudou.github-update.channel.v2",
+  "legacy_script_install_allowed": false,
+  "native_update_feed_api_url": "https://api.github.com/repos/fengteng814/nudou-desktop-pet-releases/contents/updates/native/preview.json?ref=updates",
+  "legacy_preview_feed_compatibility_version": "3.57.0.5",
+  "legacy_client_native_migration": "manual-native-setup-once",
+  "features": [
+    "desktop-todo-sidebar-family-vikunja",
+    "simplified-family-mailbox",
+    "mailbox-flicker-fix",
+    "simplified-update-interfaces",
+    "native-backup-owner-compatibility",
+    "radial-menu-todo-entry"
+  ],
+  "executable_sha256": "0154E629A1DFF4A34CCD49D6192331946F0705655655086DC6224CFD50F24DAC",
+  "build_utc": "2026-10-16T12:02:51.929813+00:00"
+}
