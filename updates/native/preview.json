@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.9",
-    "informational_version":  "3.57.0.9-preview",
-    "asset_commit":  "8df029e0cd17ed19fd4ae96860213002ba3fe602",
-    "asset_filename":  "NudouDesktopPet-3.57.0.9-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.9/NudouDesktopPet-3.57.0.9-preview-setup.exe",
-    "asset_sha256":  "B9A5684D4D08A1CE54612F7BBF0A45B0E7CDAA46C95162D2098D0074DCAF8F94",
-    "asset_bytes":  36908544,
+    "version":  "3.57.0.10",
+    "informational_version":  "3.57.0.10-preview",
+    "asset_commit":  "dc43f75ab321e03af03bbc07dafcaff435b322a6",
+    "asset_filename":  "NudouDesktopPet-3.57.0.10-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.10/NudouDesktopPet-3.57.0.10-preview-setup.exe",
+    "asset_sha256":  "F6F78F716B199ACF013993D66750CE500A34B9688F48A2DDEFF2BB23026EEF2B",
+    "asset_bytes":  36914688,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-16T11:19:24Z",
-    "notes":  "新增可固定、可折叠的桌面待办侧栏，支持家庭待办与 Vikunja 切换；简化家庭留言及两个更新界面，修复留言闪烁。3.57.0.8 原生客户端可直接检查更新，旧 .5/.6/.7 请手动运行本版原生安装器迁移一次。保留配置、身份、任务数据和回退备份。Preview 版本，程序和安装器尚未代码签名，请遵循 Windows 安全提示。"
+    "published_utc":  "2026-10-16T11:56:27Z",
+    "notes":  "修复原生安装器对旧备份目录和事务锁的所有者兼容问题，避免正常升级要求手动执行权限修复命令；保留家庭待办 / Vikunja 桌面侧栏、简洁留言及闪烁修复。3.57.0.8 / 3.57.0.9 可直接检查更新，旧 .5/.6/.7 请手动运行本版原生安装器迁移一次。保留配置、身份、任务数据和回退备份。Preview 版本，程序和安装器尚未代码签名，请遵循 Windows 安全提示。"
 }
