@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.45",
-    "informational_version":  "3.57.0.45-preview",
-    "asset_commit":  "3808e18897a0df2988efac43fd8347818127ce6c",
-    "asset_filename":  "NudouDesktopPet-3.57.0.45-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.45/NudouDesktopPet-3.57.0.45-preview-setup.exe",
-    "asset_sha256":  "663650F9CA5BFFA7F42DC1CBBC57AE4FF49D4B96CD3A1A6B70A2A383F3845CF2",
+    "version":  "3.57.0.46",
+    "informational_version":  "3.57.0.46-preview",
+    "asset_commit":  "6bbb825055d4ac9ceeea6464d6f2a7c107436a94",
+    "asset_filename":  "NudouDesktopPet-3.57.0.46-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.46/NudouDesktopPet-3.57.0.46-preview-setup.exe",
+    "asset_sha256":  "0B3B08B46DA8CDCAFDC78F685B179028CDE9AF4B621FD5F29DC5D6D2A738712B",
     "asset_bytes":  36982784,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-18T16:12:51Z",
-    "notes":  "更新按钮支持直接下载、校验、备份、安装并重启，无需打开下载页。旧版需手动安装本版一次，此后直接在桌宠内更新。包含 ToDo 本地完成动画、异常同步处理、弹窗和玻璃效果优化；保留设置、配对和任务记录。"
+    "published_utc":  "2026-10-18T17:03:33Z",
+    "notes":  "同一任务反复完成、取消完成时，桌宠只显示最新收到的状态提醒；离线补收合并展示，重复投递不重复提醒。完整历史和各台电脑的独立确认保留。包含应用内直接更新，保留设置、配对和任务数据。"
 }
