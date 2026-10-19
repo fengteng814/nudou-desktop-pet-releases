@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.58.1.0",
-    "informational_version":  "3.58.1.0-preview",
-    "asset_commit":  "9af424a0ad6a0804b6888a2e473826c9d10000a6",
-    "asset_filename":  "NudouDesktopPet-3.58.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.58.1.0/NudouDesktopPet-3.58.1.0-preview-setup.exe",
-    "asset_sha256":  "514E1AF12F62DEB66A31B8BB040243C27BAB3E667F5F0246EAA6B6EF954232CB",
+    "version":  "3.58.2.0",
+    "informational_version":  "3.58.2.0-preview",
+    "asset_commit":  "90d45ff4bc376282dff2f539749205af097e0082",
+    "asset_filename":  "NudouDesktopPet-3.58.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.58.2.0/NudouDesktopPet-3.58.2.0-preview-setup.exe",
+    "asset_sha256":  "B2571C75593256D4A997DFCD710A015E804D3290D04BA1964526989E1A72BF21",
     "asset_bytes":  37011456,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T09:30:01Z",
-    "notes":  "修复 ToDo 关闭时布局访问已释放字体的异常，保留本地排序、设置布局及中键切边改进。"
+    "published_utc":  "2026-10-19T11:51:07Z",
+    "notes":  "ToDo 条目主文字和说明保持单行，侧栏较窄时以省略号隐藏超出内容。"
 }
