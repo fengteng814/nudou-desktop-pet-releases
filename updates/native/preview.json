@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.56",
-    "informational_version":  "3.57.0.56-preview",
-    "asset_commit":  "cfdcb00c973e56bd0e62e326de1a561981855e44",
-    "asset_filename":  "NudouDesktopPet-3.57.0.56-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.56/NudouDesktopPet-3.57.0.56-preview-setup.exe",
-    "asset_sha256":  "934474968D0FB37AB2AD5833C6A5437AB64256AF67F91AFDF95770E313425199",
-    "asset_bytes":  37000192,
+    "version":  "3.57.0.57",
+    "informational_version":  "3.57.0.57-preview",
+    "asset_commit":  "292aae05585f82fdb673a621aaf14698454b7d9c",
+    "asset_filename":  "NudouDesktopPet-3.57.0.57-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.57/NudouDesktopPet-3.57.0.57-preview-setup.exe",
+    "asset_sha256":  "14F00716E2D1EC2F481CB81E30846386B37B16EEDDDF7B5449A2BA666640289B",
+    "asset_bytes":  37003264,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T04:30:15Z",
-    "notes":  "修复通透度跳变和拖动滑杆闪烁；待办间距可更紧凑；模糊 0 保持清晰，100 的模糊明显增强；改进任务回执兼容、初始化和刷新自动恢复。保留原有任务、设置及配对。"
+    "published_utc":  "2026-10-19T06:11:08Z",
+    "notes":  "修复待办拖动排序，加入手形光标和实时让位动画，顺序同步 NAS；修复展开黑底、圆圈对齐和虚线框，改善玻璃模糊。"
 }
