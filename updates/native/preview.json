@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.58",
-    "informational_version":  "3.57.0.58-preview",
-    "asset_commit":  "4b7ec56f5295723def40cac464b3385864976172",
-    "asset_filename":  "NudouDesktopPet-3.57.0.58-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.58/NudouDesktopPet-3.57.0.58-preview-setup.exe",
-    "asset_sha256":  "A06140EF5C783647684C8F5A87C69132B87219E91EA05EC70DF7A398E9A4818D",
-    "asset_bytes":  37006848,
+    "version":  "3.58.1.0",
+    "informational_version":  "3.58.1.0-preview",
+    "asset_commit":  "9af424a0ad6a0804b6888a2e473826c9d10000a6",
+    "asset_filename":  "NudouDesktopPet-3.58.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.58.1.0/NudouDesktopPet-3.58.1.0-preview-setup.exe",
+    "asset_sha256":  "514E1AF12F62DEB66A31B8BB040243C27BAB3E667F5F0246EAA6B6EF954232CB",
+    "asset_bytes":  37011456,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T06:51:59Z",
-    "notes":  "统一视觉效果设置，新增悬停提示开关与尺寸间距滑杆；改进鼠标捕获拖动排序，模糊按连续高斯半径调整。"
+    "published_utc":  "2026-10-19T09:30:01Z",
+    "notes":  "修复 ToDo 关闭时布局访问已释放字体的异常，保留本地排序、设置布局及中键切边改进。"
 }
