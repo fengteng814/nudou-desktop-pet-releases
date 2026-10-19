@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.58.2.0",
-    "informational_version":  "3.58.2.0-preview",
-    "asset_commit":  "90d45ff4bc376282dff2f539749205af097e0082",
-    "asset_filename":  "NudouDesktopPet-3.58.2.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.58.2.0/NudouDesktopPet-3.58.2.0-preview-setup.exe",
-    "asset_sha256":  "B2571C75593256D4A997DFCD710A015E804D3290D04BA1964526989E1A72BF21",
-    "asset_bytes":  37011456,
+    "version":  "3.60.0.0",
+    "informational_version":  "3.60.0.0-preview",
+    "asset_commit":  "dc72cab13ae60481160b3eeeab33dc199fdd64eb",
+    "asset_filename":  "NudouDesktopPet-3.60.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.60.0.0/NudouDesktopPet-3.60.0.0-preview-setup.exe",
+    "asset_sha256":  "92E783D0448F75C330510FA1AAB7E557F46087F634368172DB17122BD767F352",
+    "asset_bytes":  37022720,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T11:51:07Z",
-    "notes":  "ToDo 条目主文字和说明保持单行，侧栏较窄时以省略号隐藏超出内容。"
+    "published_utc":  "2026-10-19T13:14:55Z",
+    "notes":  "专注与提醒入口独立；专注分钟大字与字体设置、时光小径、自然环境声联动及图片选景、跳跃撒花。提醒协同仅设计，暂不实施。"
 }
