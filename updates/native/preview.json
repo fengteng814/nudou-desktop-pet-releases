@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.57",
-    "informational_version":  "3.57.0.57-preview",
-    "asset_commit":  "292aae05585f82fdb673a621aaf14698454b7d9c",
-    "asset_filename":  "NudouDesktopPet-3.57.0.57-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.57/NudouDesktopPet-3.57.0.57-preview-setup.exe",
-    "asset_sha256":  "14F00716E2D1EC2F481CB81E30846386B37B16EEDDDF7B5449A2BA666640289B",
-    "asset_bytes":  37003264,
+    "version":  "3.57.0.58",
+    "informational_version":  "3.57.0.58-preview",
+    "asset_commit":  "4b7ec56f5295723def40cac464b3385864976172",
+    "asset_filename":  "NudouDesktopPet-3.57.0.58-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.58/NudouDesktopPet-3.57.0.58-preview-setup.exe",
+    "asset_sha256":  "A06140EF5C783647684C8F5A87C69132B87219E91EA05EC70DF7A398E9A4818D",
+    "asset_bytes":  37006848,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T06:11:08Z",
-    "notes":  "修复待办拖动排序，加入手形光标和实时让位动画，顺序同步 NAS；修复展开黑底、圆圈对齐和虚线框，改善玻璃模糊。"
+    "published_utc":  "2026-10-19T06:51:59Z",
+    "notes":  "统一视觉效果设置，新增悬停提示开关与尺寸间距滑杆；改进鼠标捕获拖动排序，模糊按连续高斯半径调整。"
 }
