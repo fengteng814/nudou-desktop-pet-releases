@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.57.0.46",
-    "informational_version":  "3.57.0.46-preview",
-    "asset_commit":  "6bbb825055d4ac9ceeea6464d6f2a7c107436a94",
-    "asset_filename":  "NudouDesktopPet-3.57.0.46-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.57.0.46/NudouDesktopPet-3.57.0.46-preview-setup.exe",
-    "asset_sha256":  "0B3B08B46DA8CDCAFDC78F685B179028CDE9AF4B621FD5F29DC5D6D2A738712B",
-    "asset_bytes":  36982784,
+    "version":  "3.57.0.51",
+    "informational_version":  "3.57.0.51-preview",
+    "asset_commit":  "e09bdbf1500cba3fdf4a91832e8f71fb47026243",
+    "asset_filename":  "NudouDesktopPet-3.57.0.51-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.57.0.51/NudouDesktopPet-3.57.0.51-preview-setup.exe",
+    "asset_sha256":  "9307AB1D82E8B4238AAC4C0E76DD791855608E22C50D42904219F3C01DEDCDC8",
+    "asset_bytes":  36996608,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-18T17:03:33Z",
-    "notes":  "同一任务反复完成、取消完成时，桌宠只显示最新收到的状态提醒；离线补收合并展示，重复投递不重复提醒。完整历史和各台电脑的独立确认保留。包含应用内直接更新，保留设置、配对和任务数据。"
+    "published_utc":  "2026-10-19T03:12:40Z",
+    "notes":  "ToDo 新增删除、拖动排序和所属清单显示开关；增强同步阻塞自动恢复；玻璃支持连续模糊、HSL 调色与六款主题，收放动画保持玻璃；未连接服务器时先显示本地待办。"
 }
