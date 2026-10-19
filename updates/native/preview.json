@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.61.0.0",
-    "informational_version":  "3.61.0.0-preview",
-    "asset_commit":  "4d8381f82fb64ced1238742e1e770f283b33f80d",
-    "asset_filename":  "NudouDesktopPet-3.61.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.61.0.0/NudouDesktopPet-3.61.0.0-preview-setup.exe",
-    "asset_sha256":  "1D618752C3864DD51614F4B2FDACA575EFAD1B195A3981F10694B1E8BD857D0E",
-    "asset_bytes":  37028864,
+    "version":  "3.62.0.0",
+    "informational_version":  "3.62.0.0-preview",
+    "asset_commit":  "0f1d501c27619d7a9973f12e39d19d8090ceb23b",
+    "asset_filename":  "NudouDesktopPet-3.62.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.62.0.0/NudouDesktopPet-3.62.0.0-preview-setup.exe",
+    "asset_sha256":  "6EE2EFE6128D45D6D766FE01DAEDFCAD8F05200419E94F2EFED0EAD607244F90",
+    "asset_bytes":  37034496,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T14:07:48Z",
-    "notes":  "修复专注页失焦和隐式关闭；改用 Switch，加入每轮随机环境声、状态弧光与彗星设置，统一背景与圆角，移除环境声时长。真实鼠标、双窗口层级和玻璃效果尚待实测；原开关问题未在隔离环境复现。提醒协同仅设计。"
+    "published_utc":  "2026-10-19T15:21:19Z",
+    "notes":  "保留玻璃模糊、强度与染色设置，修复控件透明绘制；专注环境自动衔接，字体与圆环独立，新增宠物上方/下方独立进度环及外观主题。713 项自动断言通过；真实桌面 DWM 玻璃、多显示器和鼠标交互尚未验收。提醒协同未实现。"
 }
