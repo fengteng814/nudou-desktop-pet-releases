@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.62.0.0",
-    "informational_version":  "3.62.0.0-preview",
-    "asset_commit":  "0f1d501c27619d7a9973f12e39d19d8090ceb23b",
-    "asset_filename":  "NudouDesktopPet-3.62.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.62.0.0/NudouDesktopPet-3.62.0.0-preview-setup.exe",
-    "asset_sha256":  "6EE2EFE6128D45D6D766FE01DAEDFCAD8F05200419E94F2EFED0EAD607244F90",
-    "asset_bytes":  37034496,
+    "version":  "3.66.0.0",
+    "informational_version":  "3.66.0.0-preview",
+    "asset_commit":  "e541f8f113cbf084087739a0c8124895f0c756bd",
+    "asset_filename":  "NudouDesktopPet-3.66.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.66.0.0/NudouDesktopPet-3.66.0.0-preview-setup.exe",
+    "asset_sha256":  "CA3097790B18586C15DFDCCFBCC03FE2FA7945323B82F08CC38D511BF90E93C5",
+    "asset_bytes":  37047808,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-19T15:21:19Z",
-    "notes":  "保留玻璃模糊、强度与染色设置，修复控件透明绘制；专注环境自动衔接，字体与圆环独立，新增宠物上方/下方独立进度环及外观主题。713 项自动断言通过；真实桌面 DWM 玻璃、多显示器和鼠标交互尚未验收。提醒协同未实现。"
+    "published_utc":  "2026-10-20T03:36:33Z",
+    "notes":  "新增全局玻璃与主题设置，圆盘去除黑底并接入真实玻璃，沿用待办原有外观参数；中键圆盘直接点选功能图标，与待办共用细滚动条，新增自然环境氛围入口，项目独立分区默认折叠；修复专注时中键、右键菜单闪退，选择桌宠保留当前模式；完善专注、环境声及设置面板玻璃效果与实时预览；小弧光按剩余时间倒退，支持悬停播放/暂停、静音及总时长/剩余时长，未悬停显示剩余分钟，文字和按钮参数可调；恢复自然环境动画；优化关闭按钮、时长对齐、开关与齿轮位置、撒花文字及底部布局。小弧光时间不再显示秒。"
 }
