@@ -1,4 +1,6 @@
-# 历史版本索引
+# 历史版本下载
+
+[返回首页](../README.md) · [功能介绍](../FEATURES.md) · [更新日志](../CHANGELOG.md)
 
 
 当前最新公开版本为 **3.69.0.0 Preview**，推荐从 [版本页面](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/tag/v3.69.0.0) 下载。
