@@ -1,7 +1,11 @@
 *
 !.gitignore
 !README.md
+!docs/
+!docs/**
 !distribution/
 !distribution/**
+!support/
+!support/**
 !updates/
 !updates/**

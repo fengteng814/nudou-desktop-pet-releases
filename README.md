@@ -1,17 +1,28 @@
-# 努豆桌宠发行包
+# 努豆桌宠
 
-**3.57.0.5 Preview**：[单文件 GUI 安装器](distribution/preview/3.57.0.5/NudouDesktopPet-3.57.0.5-preview-setup.exe) · [完整 setup ZIP](distribution/preview/3.57.0.5/NudouDesktopPet-3.57.0.5-preview-setup.zip) · [SHA256 校验](distribution/preview/3.57.0.5/SHA256SUMS.txt) · [更新记录](distribution/preview/3.57.0.5/CHANGELOG.md) · [验收摘要](distribution/preview/3.57.0.5/QA.md)
+Windows 桌面伙伴。当前版本：**3.69.0.0 Preview**。
 
-本版完善雨棚、竹林、海边、壁炉和营火五种氛围动画，以及普通待机与动作优先级。新安装默认普通待机，已有氛围和音频偏好保留；主动动作与拖动优先，空闲后恢复场景。保留左右外缘收边、托盘大头图标、每日/手动更新及家庭 LAN 配对和安全提交功能。
+**[下载 Windows 安装包](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/download/v3.69.0.0/NudouDesktopPet-3.69.0.0-preview-setup.exe)** · [便携版 ZIP](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/download/v3.69.0.0/NudouDesktopPet-3.69.0.0-Extract-And-Run.zip) · [本版更新说明](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/tag/v3.69.0.0)
 
-双击 GUI 安装器，核对版本及实际安装目录；更新已有安装时选择原目录。安装器默认以当前用户权限运行，可建立快捷方式并在完成后启动。也可完整解压 setup ZIP 后使用随包安装入口。安装器未签名，请遵守系统和企业安全提示；被策略阻止时停止。
+安装包需要 Windows .NET Framework 4.8；按照安装器提示确认安装或更新。已有桌宠也可以右键 → 设置 → 检查更新。
 
-更新前正常保存并退出目标目录的旧实例，确认实例和文件锁释放后再备份及替换。未发送草稿、保存失败、忙碌或超时会停止更新。旧版正常退出失败时，从旧版菜单退出后重试。配置、身份及数据保留；回退只恢复程序，卸载默认保留数据。旧程序不兼容当前数据时停止回退，不删除队列、重置身份或绕过 HOLD。
+## 这次更新
 
-更新入口为桌宠右键 → 设置 → 检查更新。每台电脑每天检查一次，未运行时下次启动补查，手动检查可随时进行。默认查询本公开仓库，无需账号、令牌或 GitHub CLI；已有手动配置优先。新版只提示，下载并确认安装后才替换。
+- 在桌宠内输入配对码即可连接已授权的任务服务，无需手动编辑配置。
+- 管理清单优先显示本地缓存，后台自动重连；离线提示在鼠标悬停时显示。
+- 编辑待办时可以转移所属清单，保留任务编号和完成状态。
+- 修复檐下听雨抬臂时的肩部衣料缺块。
 
-本仓库仅含已授权程序发行包、安装工具、素材、许可、说明、版本和校验文件。私有项目源码保留在私仓；不含个人配置、配对凭据、身份、密钥、笔记、运行队列或日志。音频来源及许可记录随包提供，其许可不授予图像许可。
+## 使用与下载
 
-本机已正常退出旧版、备份并成功安装启动本版，程序替换前后数据及权限核验保持一致。最终程序与安装器已公开发布，真实匿名更新查询、安装器下载及同日缓存验收通过，详见验收摘要。实际 GUI 操作、多屏、不同 DPI 与其它目标机尚未验收。NAS 与树莓派部署继续暂停。
+| 需要做什么 | 入口 |
+| --- | --- |
+| 首次安装、升级或使用便携版 | [安装与更新](docs/installation.md) |
+| 连接任务服务、输入配对码 | [任务服务配对](docs/task-service.md) |
+| 查找旧版本或回退包 | [历史版本索引](docs/release-history.md) |
+| 核对当前安装包 | [SHA256 校验清单](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/download/v3.69.0.0/SHA256SUMS.txt) |
+| 了解仓库结构与发布规则 | [仓库维护说明](docs/repository.md) |
 
-此前的 [3.57.0.2 Preview](distribution/preview/3.57.0.2/NudouDesktopPet-3.57.0.2-preview-setup.zip) 及其校验文件保留。
+这是发行仓库，保存安装包、更新说明和校验清单；开发源码保存在私有仓库。用户配置、笔记和配对凭据不随发行包上传。
+
+当前为 Preview。任务同步需要服务器授权，外网使用还需连接指定的 Tailscale 网络。安装与更新会由用户确认。
