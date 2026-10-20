@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.69.0.0",
-    "informational_version":  "3.69.0.0-preview",
-    "asset_commit":  "4c039e06df15205c70dd41599391e88faa278daa",
-    "asset_filename":  "NudouDesktopPet-3.69.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.69.0.0/NudouDesktopPet-3.69.0.0-preview-setup.exe",
-    "asset_sha256":  "6728488CF10AECBB9022B807E0264A8B4CAA0BF0D838E2712F49F77BAF8643A2",
-    "asset_bytes":  37064192,
+    "version":  "3.71.1.0",
+    "informational_version":  "3.71.1.0-preview",
+    "asset_commit":  "16c4e89c07e336a044f9eacee6c45a2a5e8c958b",
+    "asset_filename":  "NudouDesktopPet-3.71.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.71.1.0/NudouDesktopPet-3.71.1.0-preview-setup.exe",
+    "asset_sha256":  "E915F9D81BEE54A4373AB3F5B7D9E4AB9E3769259214D78629208B9F35CCD411",
+    "asset_bytes":  37073408,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-20T07:29:29Z",
-    "notes":  "新增桌宠内配对码连接任务服务：新电脑打开待办或“连接任务服务”，输入服务器签发的配对码即可连接；保留已有配对。融合 3.68.1 的本地清单缓存、后台重连和悬停离线提示，以及待办跨清单转移、檐下听雨肩部衣料修复。"
+    "published_utc":  "2026-10-20T08:59:35Z",
+    "notes":  "清单与任务操作在后台处理；支持每周多个日期的固定起止时段、多清单分组和顺序调整、任务圆圈粗细；专注结束回到常驻。鼠标移出侧栏取消条目高亮。完整包含 3.70.1 的慢速回执与重复规则重试修复。"
 }
