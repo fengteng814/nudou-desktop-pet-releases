@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.66.0.0",
-    "informational_version":  "3.66.0.0-preview",
-    "asset_commit":  "e541f8f113cbf084087739a0c8124895f0c756bd",
-    "asset_filename":  "NudouDesktopPet-3.66.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.66.0.0/NudouDesktopPet-3.66.0.0-preview-setup.exe",
-    "asset_sha256":  "CA3097790B18586C15DFDCCFBCC03FE2FA7945323B82F08CC38D511BF90E93C5",
-    "asset_bytes":  37047808,
+    "version":  "3.67.2.0",
+    "informational_version":  "3.67.2.0-preview",
+    "asset_commit":  "8ca6cf179c28d04452c9151cd9f53c67d6b37261",
+    "asset_filename":  "NudouDesktopPet-3.67.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.67.2.0/NudouDesktopPet-3.67.2.0-preview-setup.exe",
+    "asset_sha256":  "95A2AE52E31D2284D19E045BFC0BA9CB0A880BE21A7B9E73AFFDB61EBB79311A",
+    "asset_bytes":  37051904,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-20T03:36:33Z",
-    "notes":  "新增全局玻璃与主题设置，圆盘去除黑底并接入真实玻璃，沿用待办原有外观参数；中键圆盘直接点选功能图标，与待办共用细滚动条，新增自然环境氛围入口，项目独立分区默认折叠；修复专注时中键、右键菜单闪退，选择桌宠保留当前模式；完善专注、环境声及设置面板玻璃效果与实时预览；小弧光按剩余时间倒退，支持悬停播放/暂停、静音及总时长/剩余时长，未悬停显示剩余分钟，文字和按钮参数可调；恢复自然环境动画；优化关闭按钮、时长对齐、开关与齿轮位置、撒花文字及底部布局。小弧光时间不再显示秒。"
+    "published_utc":  "2026-10-20T05:52:36Z",
+    "notes":  "新增专注面板近七天统计和本地历史；修复待办配置短暂不可用后无法自动恢复的问题，离线显示缓存时间并自动重试；修正檐下听雨椅背旧胳膊轮廓与移动碎点；改善中键圆盘高亮扇面描边，保留玻璃效果。檐下听雨肩部高光随抬臂变化的衔接仍待后续完善。"
 }
