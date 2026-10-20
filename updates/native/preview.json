@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.71.1.0",
-    "informational_version":  "3.71.1.0-preview",
-    "asset_commit":  "16c4e89c07e336a044f9eacee6c45a2a5e8c958b",
-    "asset_filename":  "NudouDesktopPet-3.71.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.71.1.0/NudouDesktopPet-3.71.1.0-preview-setup.exe",
-    "asset_sha256":  "E915F9D81BEE54A4373AB3F5B7D9E4AB9E3769259214D78629208B9F35CCD411",
-    "asset_bytes":  37073408,
+    "version":  "3.71.2.0",
+    "informational_version":  "3.71.2.0-preview",
+    "asset_commit":  "2b595a638cefc74c24ddefa4a62648984d082b93",
+    "asset_filename":  "NudouDesktopPet-3.71.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.71.2.0/NudouDesktopPet-3.71.2.0-preview-setup.exe",
+    "asset_sha256":  "BAB12DF64EF9688C738725CD7993191E22D3B3EDCD1ECFC33B5FAEC43B931025",
+    "asset_bytes":  37074432,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-20T08:59:35Z",
-    "notes":  "清单与任务操作在后台处理；支持每周多个日期的固定起止时段、多清单分组和顺序调整、任务圆圈粗细；专注结束回到常驻。鼠标移出侧栏取消条目高亮。完整包含 3.70.1 的慢速回执与重复规则重试修复。"
+    "published_utc":  "2026-10-20T09:18:08Z",
+    "notes":  "清单顺序仅在本机保存，点击后立即应用到 Todo 侧栏；离线、同步中或显示选择正在保存时也可调整。重启保留顺序，服务器同步不会覆盖本机排序。完整保留 3.71.1 和 3.70.1 的修改。"
 }
