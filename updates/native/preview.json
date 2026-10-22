@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.73.6.0",
-    "informational_version":  "3.73.6.0-preview",
-    "asset_commit":  "74be3fd8d0cb6286137a85696ef3bd5f9ff530c6",
-    "asset_filename":  "NudouDesktopPet-3.73.6.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.73.6.0/NudouDesktopPet-3.73.6.0-preview-setup.exe",
-    "asset_sha256":  "9C44D323270841C727514B4165C96D2E5C9C29A03BB06CE643493F230649A95B",
-    "asset_bytes":  37089792,
+    "version":  "3.73.7.0",
+    "informational_version":  "3.73.7.0-preview",
+    "asset_commit":  "8ce71b3f29712129c8d43fa723541598962b4768",
+    "asset_filename":  "NudouDesktopPet-3.73.7.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.73.7.0/NudouDesktopPet-3.73.7.0-preview-setup.exe",
+    "asset_sha256":  "F8AFAFF27DE2EB04256D28912E5676A044DF16904D0606F6D63EEECA6571501C",
+    "asset_bytes":  37090304,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-22T14:23:43Z",
-    "notes":  "补齐逐清单、逐页读取异常和耗时诊断，区分网络错误与页面时效；不改变超时、任务状态或网络配置。此诊断更新不代表间歇离线已解决。"
+    "published_utc":  "2026-10-22T15:04:06Z",
+    "notes":  "修复慢刷新持续追加与元数据反复建连；保留原超时、权限、队列与任务71，办公室修复后验收待完成"
 }
