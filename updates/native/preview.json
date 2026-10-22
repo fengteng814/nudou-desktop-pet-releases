@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.71.3.0",
-    "informational_version":  "3.71.3.0-preview",
-    "asset_commit":  "ec12dc8c518aa4e2b1050899de2e8bf453d1c0ea",
-    "asset_filename":  "NudouDesktopPet-3.71.3.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.71.3.0/NudouDesktopPet-3.71.3.0-preview-setup.exe",
-    "asset_sha256":  "5B1062CE07316D8E04D29958D790CE0C1DFDF98C7F97BF5B6FCEAF26473F3CE7",
-    "asset_bytes":  37076480,
+    "version":  "3.73.2.0",
+    "informational_version":  "3.73.2.0-preview",
+    "asset_commit":  "c74e958c5178375d8e5d75eb212880184e382ec2",
+    "asset_filename":  "NudouDesktopPet-3.73.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.73.2.0/NudouDesktopPet-3.73.2.0-preview-setup.exe",
+    "asset_sha256":  "1640F744627680D64294994307F5EC04A4F1E4F99A9BEC09EFC8143324990531",
+    "asset_bytes":  37084672,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-21T10:19:39Z",
-    "notes":  "修复用户目录暂时不可用时身份读取无法恢复的问题；重试时重新解析目录，连接恢复后让已打开的待办和留言窗口继续使用，并保留草稿。增加脱敏诊断，便于排查连接问题。保留原有配对、任务缓存及本机清单排序。"
+    "published_utc":  "2026-10-22T07:55:34Z",
+    "notes":  "修复 TODO 人工对账后的任务关联、重复行显示和队列占用；验证服务端可写状态后按原请求编号续传后续操作。保留无原生确认标记及 20 秒读取期限。升级前请退出并备份本机数据，安装后核对原队列续传。"
 }
