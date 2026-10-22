@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.73.7.0",
-    "informational_version":  "3.73.7.0-preview",
-    "asset_commit":  "8ce71b3f29712129c8d43fa723541598962b4768",
-    "asset_filename":  "NudouDesktopPet-3.73.7.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.73.7.0/NudouDesktopPet-3.73.7.0-preview-setup.exe",
-    "asset_sha256":  "F8AFAFF27DE2EB04256D28912E5676A044DF16904D0606F6D63EEECA6571501C",
-    "asset_bytes":  37090304,
+    "version":  "3.73.8.0",
+    "informational_version":  "3.73.8.0-preview",
+    "asset_commit":  "8fea55a3fded9b59c13d03cd9ceedc700e4a4c14",
+    "asset_filename":  "NudouDesktopPet-3.73.8.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.73.8.0/NudouDesktopPet-3.73.8.0-preview-setup.exe",
+    "asset_sha256":  "F1B33DE4120A7046DB25DD5295FF799F22FB037A671F355D339023B62C9810DC",
+    "asset_bytes":  37091840,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-22T15:04:06Z",
-    "notes":  "修复慢刷新持续追加与元数据反复建连；保留原超时、权限、队列与任务71，办公室修复后验收待完成"
+    "published_utc":  "2026-10-22T20:29:11Z",
+    "notes":  "修复快照临期调度、缓存过期和规则读取状态；保留原超时、权限、队列及现有任务，办公室验收待完成"
 }
