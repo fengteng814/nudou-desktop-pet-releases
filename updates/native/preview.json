@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.73.3.0",
-    "informational_version":  "3.73.3.0-preview",
-    "asset_commit":  "4809fc18939eef7fca9261d0816868ddda7e78c5",
-    "asset_filename":  "NudouDesktopPet-3.73.3.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.73.3.0/NudouDesktopPet-3.73.3.0-preview-setup.exe",
-    "asset_sha256":  "68DF216A7977E848D90BE27B436BC3F271AF084A265CF27A195364B3674E439D",
-    "asset_bytes":  37085696,
+    "version":  "3.73.4.0",
+    "informational_version":  "3.73.4.0-preview",
+    "asset_commit":  "9fb3cb9ea4445af83161bbb781263146ff801170",
+    "asset_filename":  "NudouDesktopPet-3.73.4.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.73.4.0/NudouDesktopPet-3.73.4.0-preview-setup.exe",
+    "asset_sha256":  "E17AF9880E4F4FCB8EA6A61542E6A167E49DF3A583BA79E79C2EC1ABEBC752AE",
+    "asset_bytes":  37088768,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-22T08:20:29Z",
-    "notes":  "新增 TODO 任务放在所属清单顶部，连续新增按最新在前排列；同步和重启后保留顺序，手动拖动仍有效。修复成功回执已收到但列表缓存未更新时误显示待同步的问题。"
+    "published_utc":  "2026-10-22T12:29:23Z",
+    "notes":  "增加已拒绝创建请求的人工核对恢复入口，保留原始记录；降低阻塞终态回执的后台查询频率，保留新任务置顶。接受并保存新意图后需使用兼容的 3.73.4 或之后版本。"
 }
