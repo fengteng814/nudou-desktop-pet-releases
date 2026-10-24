@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.74.0.0",
-    "informational_version":  "3.74.0.0-preview",
-    "asset_commit":  "4f6beae3f86627d915efd3e724d168856297747e",
-    "asset_filename":  "NudouDesktopPet-3.74.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.74.0.0/NudouDesktopPet-3.74.0.0-preview-setup.exe",
-    "asset_sha256":  "1F96A77651FEDF27F09B8290959ED7348780DD0CF07696FB63F5F7A33EAD90F1",
-    "asset_bytes":  37406208,
+    "version":  "3.76.2.0",
+    "informational_version":  "3.76.2.0-preview",
+    "asset_commit":  "ad5a83a2cc6a62f81a6bf30611aae6502946e26d",
+    "asset_filename":  "NudouDesktopPet-3.76.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.76.2.0/NudouDesktopPet-3.76.2.0-preview-setup.exe",
+    "asset_sha256":  "B289276EF3CC80F9CEAA940FD3FE9DC751D17052494BB34CFCE48ADC3FCB012C",
+    "asset_bytes":  37407744,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-23T02:32:12Z",
-    "notes":  "新增已确认的萤火晚灯与去起点标记版回头补拍；保留原有待办、配对与队列。真实桌面、多屏DPI、NAS与长期运行尚待现场验收。"
+    "published_utc":  "2026-10-24T09:05:44Z",
+    "notes":  "专注页近期统计默认折叠，点击展开/收起，移除左右分隔线；新增圆盘轮廓粗细设置与实时预览，设置默认折叠，并改善轮廓边缘平滑度。"
 }
