@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.76.3.0",
-    "informational_version":  "3.76.3.0-preview",
-    "asset_commit":  "1d20ad963592399b1c2e3adc08e6226e231ce5fd",
-    "asset_filename":  "NudouDesktopPet-3.76.3.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.76.3.0/NudouDesktopPet-3.76.3.0-preview-setup.exe",
-    "asset_sha256":  "566A1C2BB9E6DA5A2B8D8AEAA4360B6DF9456E60725D81728F3508D3A975A500",
-    "asset_bytes":  37407232,
+    "version":  "3.76.4.0",
+    "informational_version":  "3.76.4.0-preview",
+    "asset_commit":  "05f579e643e51a382ff31104c7102df4cc41bcd7",
+    "asset_filename":  "NudouDesktopPet-3.76.4.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.76.4.0/NudouDesktopPet-3.76.4.0-preview-setup.exe",
+    "asset_sha256":  "12C634CCBA79C3EC05531E10259B64C70FD5B3CEF4B86E052BA77D191D8E6830",
+    "asset_bytes":  37407744,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-24T09:44:50Z",
-    "notes":  "修复点击近期专注时横向、竖向滚动条闪现；近期专注入口文字右对齐。保留默认折叠与无分隔线布局。"
+    "published_utc":  "2026-10-24T10:18:29Z",
+    "notes":  "修复专注环境声被旧静音记录拦截；开启专注环境声同时启动氛围动画，恢复运行中的专注也保持联动。本轮手动停止仍然有效。"
 }
