@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.78.1.0",
-    "informational_version":  "3.78.1.0-preview",
-    "asset_commit":  "085b883e4b938f9c07eb1c0b08d1da4a82170a6c",
-    "asset_filename":  "NudouDesktopPet-3.78.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.78.1.0/NudouDesktopPet-3.78.1.0-preview-setup.exe",
-    "asset_sha256":  "C2CDB66C4622EC9E127B244EB633172BA3A350C1D2D2B8EB419682FA6DFD6471",
+    "version":  "3.78.2.0",
+    "informational_version":  "3.78.2.0-preview",
+    "asset_commit":  "df2bfb608227b6636f104a2c727840a12b6748f3",
+    "asset_filename":  "NudouDesktopPet-3.78.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.78.2.0/NudouDesktopPet-3.78.2.0-preview-setup.exe",
+    "asset_sha256":  "C4CB398B3A99F22F9B7E7F7BCCE96261499C6A8C38A878114C38C1D9E4356E73",
     "asset_bytes":  37436416,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-26T11:17:34Z",
-    "notes":  "修复本地历史扫描和后台回调积压导致的待办界面卡顿；保留操作 UUID、完整性校验与超时不重发规则，增加扫描和界面耗时诊断。"
+    "published_utc":  "2026-10-26T11:26:20Z",
+    "notes":  "全局同步状态集中到底部状态栏，点击可查看原因；保留任务自身的待同步、失败、核对和权限提示，以及原有响应修复。"
 }
