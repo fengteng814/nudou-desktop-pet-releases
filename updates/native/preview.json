@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.76.4.0",
-    "informational_version":  "3.76.4.0-preview",
-    "asset_commit":  "05f579e643e51a382ff31104c7102df4cc41bcd7",
-    "asset_filename":  "NudouDesktopPet-3.76.4.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.76.4.0/NudouDesktopPet-3.76.4.0-preview-setup.exe",
-    "asset_sha256":  "12C634CCBA79C3EC05531E10259B64C70FD5B3CEF4B86E052BA77D191D8E6830",
-    "asset_bytes":  37407744,
+    "version":  "3.77.0.1",
+    "informational_version":  "3.77.0.1-preview",
+    "asset_commit":  "6b91fe4abd9e98d260ebdfca0a0fa5606752f887",
+    "asset_filename":  "NudouDesktopPet-3.77.0.1-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.77.0.1/NudouDesktopPet-3.77.0.1-preview-setup.exe",
+    "asset_sha256":  "098055B9F34FAD4B431026B77C6BDDFD8C23504CDECCCC868F66002683A218A0",
+    "asset_bytes":  37428224,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-24T10:18:29Z",
-    "notes":  "修复专注环境声被旧静音记录拦截；开启专注环境声同时启动氛围动画，恢复运行中的专注也保持联动。本轮手动停止仍然有效。"
+    "published_utc":  "2026-10-26T07:16:28Z",
+    "notes":  "鼠标移入 Todo 栏时显示上次成功同步时间和当前状态，移出恢复简洁显示；连接失败保留缓存与提示，改善配置恢复和后台刷新。"
 }
