@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.77.0.1",
-    "informational_version":  "3.77.0.1-preview",
-    "asset_commit":  "6b91fe4abd9e98d260ebdfca0a0fa5606752f887",
-    "asset_filename":  "NudouDesktopPet-3.77.0.1-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.77.0.1/NudouDesktopPet-3.77.0.1-preview-setup.exe",
-    "asset_sha256":  "098055B9F34FAD4B431026B77C6BDDFD8C23504CDECCCC868F66002683A218A0",
+    "version":  "3.77.1.0",
+    "informational_version":  "3.77.1.0-preview",
+    "asset_commit":  "d955d68e38fbd44eea85b5be82ebcec69d02d612",
+    "asset_filename":  "NudouDesktopPet-3.77.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.77.1.0/NudouDesktopPet-3.77.1.0-preview-setup.exe",
+    "asset_sha256":  "5911F26B28F6CB3F0C8B342F703A7326F2F693C2EF820AE38A06F61FD36EF847",
     "asset_bytes":  37428224,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-26T07:16:28Z",
-    "notes":  "鼠标移入 Todo 栏时显示上次成功同步时间和当前状态，移出恢复简洁显示；连接失败保留缓存与提示，改善配置恢复和后台刷新。"
+    "published_utc":  "2026-10-26T08:27:19Z",
+    "notes":  "Todo 同步时间和当前状态统一到原底部信息区，取消重复浮动提示和额外两行留白；离线已有同步时间时不再重复显示。"
 }
