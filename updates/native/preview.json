@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.77.2.0",
-    "informational_version":  "3.77.2.0-preview",
-    "asset_commit":  "edca0327a01c91b41249254dd23834a1318191e1",
-    "asset_filename":  "NudouDesktopPet-3.77.2.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.77.2.0/NudouDesktopPet-3.77.2.0-preview-setup.exe",
-    "asset_sha256":  "1729FC74074CDF1029FA3FAB188C39FEBB952EA7044D890C3A5E1394B8341F95",
-    "asset_bytes":  37428224,
+    "version":  "3.78.0.0",
+    "informational_version":  "3.78.0.0-preview",
+    "asset_commit":  "571d535fd119b3d8f8bcd002f90e7cab5ef65490",
+    "asset_filename":  "NudouDesktopPet-3.78.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.78.0.0/NudouDesktopPet-3.78.0.0-preview-setup.exe",
+    "asset_sha256":  "0C44E4170382A7588DB6E07F02A99F680137F686DC7F0B44EAF39F457D9D0797",
+    "asset_bytes":  37433856,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-26T08:40:57Z",
-    "notes":  "Todo 底部统一为简短通知；鼠标进出和后台轮询不再切换文案，时间只显示到分钟，操作通知优先保留。"
+    "published_utc":  "2026-10-26T09:03:43Z",
+    "notes":  "新增可复制的同步诊断日志，记录启动、配置、缓存、连接错误和服务器返回数量，便于排查更新后空内容；不包含任务正文或凭据。"
 }
