@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.77.1.0",
-    "informational_version":  "3.77.1.0-preview",
-    "asset_commit":  "d955d68e38fbd44eea85b5be82ebcec69d02d612",
-    "asset_filename":  "NudouDesktopPet-3.77.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.77.1.0/NudouDesktopPet-3.77.1.0-preview-setup.exe",
-    "asset_sha256":  "5911F26B28F6CB3F0C8B342F703A7326F2F693C2EF820AE38A06F61FD36EF847",
+    "version":  "3.77.2.0",
+    "informational_version":  "3.77.2.0-preview",
+    "asset_commit":  "edca0327a01c91b41249254dd23834a1318191e1",
+    "asset_filename":  "NudouDesktopPet-3.77.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.77.2.0/NudouDesktopPet-3.77.2.0-preview-setup.exe",
+    "asset_sha256":  "1729FC74074CDF1029FA3FAB188C39FEBB952EA7044D890C3A5E1394B8341F95",
     "asset_bytes":  37428224,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-26T08:27:19Z",
-    "notes":  "Todo 同步时间和当前状态统一到原底部信息区，取消重复浮动提示和额外两行留白；离线已有同步时间时不再重复显示。"
+    "published_utc":  "2026-10-26T08:40:57Z",
+    "notes":  "Todo 底部统一为简短通知；鼠标进出和后台轮询不再切换文案，时间只显示到分钟，操作通知优先保留。"
 }
