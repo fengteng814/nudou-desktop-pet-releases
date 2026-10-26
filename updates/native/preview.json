@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.78.0.0",
-    "informational_version":  "3.78.0.0-preview",
-    "asset_commit":  "571d535fd119b3d8f8bcd002f90e7cab5ef65490",
-    "asset_filename":  "NudouDesktopPet-3.78.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.78.0.0/NudouDesktopPet-3.78.0.0-preview-setup.exe",
-    "asset_sha256":  "0C44E4170382A7588DB6E07F02A99F680137F686DC7F0B44EAF39F457D9D0797",
-    "asset_bytes":  37433856,
+    "version":  "3.78.1.0",
+    "informational_version":  "3.78.1.0-preview",
+    "asset_commit":  "085b883e4b938f9c07eb1c0b08d1da4a82170a6c",
+    "asset_filename":  "NudouDesktopPet-3.78.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.78.1.0/NudouDesktopPet-3.78.1.0-preview-setup.exe",
+    "asset_sha256":  "C2CDB66C4622EC9E127B244EB633172BA3A350C1D2D2B8EB419682FA6DFD6471",
+    "asset_bytes":  37436416,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-26T09:03:43Z",
-    "notes":  "新增可复制的同步诊断日志，记录启动、配置、缓存、连接错误和服务器返回数量，便于排查更新后空内容；不包含任务正文或凭据。"
+    "published_utc":  "2026-10-26T11:17:34Z",
+    "notes":  "修复本地历史扫描和后台回调积压导致的待办界面卡顿；保留操作 UUID、完整性校验与超时不重发规则，增加扫描和界面耗时诊断。"
 }
