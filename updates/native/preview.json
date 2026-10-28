@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.78.3.0",
-    "informational_version":  "3.78.3.0-preview",
-    "asset_commit":  "bc18115871f5352a22f14919402151a1edbbd841",
-    "asset_filename":  "NudouDesktopPet-3.78.3.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.78.3.0/NudouDesktopPet-3.78.3.0-preview-setup.exe",
-    "asset_sha256":  "070390BC209C61F4B41643D5BDDA73A01CB6B16882294E992100663D8DE4E857",
-    "asset_bytes":  37436416,
+    "version":  "3.79.0.0",
+    "informational_version":  "3.79.0.0-preview",
+    "asset_commit":  "dcf1a2ac7e03e4f216d19d706e24a66a8ee25841",
+    "asset_filename":  "NudouDesktopPet-3.79.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.79.0.0/NudouDesktopPet-3.79.0.0-preview-setup.exe",
+    "asset_sha256":  "2B9BBE159CFE10644BEAA6E53CE1ABB80DC5C930F0A1A9A4ED5D660099AD5D95",
+    "asset_bytes":  37454848,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-26T12:33:18Z",
-    "notes":  "鼠标移入待办界面才显示底部状态栏，移出隐藏；保留点击查看同步详情。"
+    "published_utc":  "2026-10-28T16:38:43Z",
+    "notes":  "快记与多条固定便签融合：Markdown阅读与编辑、Ctrl+滚轮字号、图片粘贴和图文导出、自动保存、搜索与回收站；新增纸条配色、表情和主动灵感回捞。"
 }
