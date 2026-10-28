@@ -3,13 +3,14 @@
 [返回首页](../README.md) · [功能介绍](../FEATURES.md) · [更新日志](../CHANGELOG.md)
 
 
-当前最新公开版本为 **3.81.0.0 Preview**，推荐从 [版本页面](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/tag/v3.81.0.0) 下载。
+当前最新公开版本为 **3.82.0.0 Preview**，推荐从 [版本页面](https://github.com/fengteng814/nudou-desktop-pet-releases/releases/tag/v3.82.0.0) 下载。
 
 以下只列出实际发布过的版本；未公开的中间构建不作为下载版本列出。版本号按各段数字从新到旧排列。
 
 | 版本 | 安装包 | 便携 ZIP | 更新说明 | 校验 |
 | --- | --- | --- | --- | --- |
-| **3.81.0.0** | [EXE](../distribution/preview/3.81.0.0/NudouDesktopPet-3.81.0.0-preview-setup.exe) | [下载](../distribution/preview/3.81.0.0/NudouDesktopPet-3.81.0.0-Extract-And-Run.zip) | [说明](../distribution/preview/3.81.0.0/CHANGELOG.md) | [SHA256](../distribution/preview/3.81.0.0/SHA256SUMS.txt) |
+| **3.82.0.0** | [EXE](../distribution/preview/3.82.0.0/NudouDesktopPet-3.82.0.0-preview-setup.exe) | [下载](../distribution/preview/3.82.0.0/NudouDesktopPet-3.82.0.0-Extract-And-Run.zip) | [说明](../distribution/preview/3.82.0.0/CHANGELOG.md) | [SHA256](../distribution/preview/3.82.0.0/SHA256SUMS.txt) |
+| 3.81.0.0 | [EXE](../distribution/preview/3.81.0.0/NudouDesktopPet-3.81.0.0-preview-setup.exe) | [下载](../distribution/preview/3.81.0.0/NudouDesktopPet-3.81.0.0-Extract-And-Run.zip) | [说明](../distribution/preview/3.81.0.0/CHANGELOG.md) | [SHA256](../distribution/preview/3.81.0.0/SHA256SUMS.txt) |
 | 3.80.1.0 | [EXE](../distribution/preview/3.80.1.0/NudouDesktopPet-3.80.1.0-preview-setup.exe) | [下载](../distribution/preview/3.80.1.0/NudouDesktopPet-3.80.1.0-Extract-And-Run.zip) | [说明](../distribution/preview/3.80.1.0/CHANGELOG.md) | [SHA256](../distribution/preview/3.80.1.0/SHA256SUMS.txt) |
 | 3.80.0.0 | [EXE](../distribution/preview/3.80.0.0/NudouDesktopPet-3.80.0.0-preview-setup.exe) | [下载](../distribution/preview/3.80.0.0/NudouDesktopPet-3.80.0.0-Extract-And-Run.zip) | [说明](../distribution/preview/3.80.0.0/CHANGELOG.md) | [SHA256](../distribution/preview/3.80.0.0/SHA256SUMS.txt) |
 | 3.79.0.0 | [EXE](../distribution/preview/3.79.0.0/NudouDesktopPet-3.79.0.0-preview-setup.exe) | [下载](../distribution/preview/3.79.0.0/NudouDesktopPet-3.79.0.0-Extract-And-Run.zip) | [说明](../distribution/preview/3.79.0.0/CHANGELOG.md) | [SHA256](../distribution/preview/3.79.0.0/SHA256SUMS.txt) |
