@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.79.0.0",
-    "informational_version":  "3.79.0.0-preview",
-    "asset_commit":  "dcf1a2ac7e03e4f216d19d706e24a66a8ee25841",
-    "asset_filename":  "NudouDesktopPet-3.79.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.79.0.0/NudouDesktopPet-3.79.0.0-preview-setup.exe",
-    "asset_sha256":  "2B9BBE159CFE10644BEAA6E53CE1ABB80DC5C930F0A1A9A4ED5D660099AD5D95",
-    "asset_bytes":  37454848,
+    "version":  "3.80.0.0",
+    "informational_version":  "3.80.0.0-preview",
+    "asset_commit":  "606e2e25ca549b882998b05b2a7dd468ab4b6fb6",
+    "asset_filename":  "NudouDesktopPet-3.80.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.80.0.0/NudouDesktopPet-3.80.0.0-preview-setup.exe",
+    "asset_sha256":  "60F3B7665F7AB715530BD191B105A73CE4D1482F31A7F0E2EF98826030470F87",
+    "asset_bytes":  37471232,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-28T16:38:43Z",
-    "notes":  "快记与多条固定便签融合：Markdown阅读与编辑、Ctrl+滚轮字号、图片粘贴和图文导出、自动保存、搜索与回收站；新增纸条配色、表情和主动灵感回捞。"
+    "published_utc":  "2026-10-28T17:01:46Z",
+    "notes":  "便签可单独换颜色并设置新便签默认色；折叠便签拖出成为独立桌面便签，同一记录双向更新；在便签底部选择已有Obsidian仓库并发送Markdown和图片。并发编辑遇到冲突时保留当前文字，不覆盖另一窗口更新。"
 }
