@@ -82,3 +82,8 @@ Todo 通知：底部共用一条简短通知，鼠标移动与后台轮询不切
 展开便签底部的“发送到 Obsidian”，选择本机已有仓库，再点击发送。Markdown 与本地图片一并写入仓库的“努豆快记”目录；原快记保留，此功能为主动发送，不是持续双向同步。
 
 备份请保留 nudou-quick-*.ini、quick-note-assets、quick-note-edit-drafts 和 quick-note-conflicts。
+
+
+## 精简快记界面
+
+快记默认显示输入区、记下/阅读/更多及折叠便签。搜索与筛选从更多展开；右上角图钉切换窗口置顶。主快记和独立便签不再显示关闭按钮，按 Esc 保存并收起。每条颜色、图片、Markdown、Obsidian和拖出便签仍可使用。
