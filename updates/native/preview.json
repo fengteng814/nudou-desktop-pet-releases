@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.81.0.0",
-    "informational_version":  "3.81.0.0-preview",
-    "asset_commit":  "7498e2a529e43026c4598caf95ddb12974d8bad7",
-    "asset_filename":  "NudouDesktopPet-3.81.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.81.0.0/NudouDesktopPet-3.81.0.0-preview-setup.exe",
-    "asset_sha256":  "D8E91CAD05DB76BC94362C91EE3ECCBED56038FF285A919B39E0173D5E0DAB78",
-    "asset_bytes":  37475328,
+    "version":  "3.82.0.0",
+    "informational_version":  "3.82.0.0-preview",
+    "asset_commit":  "2ef4fd85f3167befb0edb93b2bbc213c5dcde51f",
+    "asset_filename":  "NudouDesktopPet-3.82.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.82.0.0/NudouDesktopPet-3.82.0.0-preview-setup.exe",
+    "asset_sha256":  "FF35213F51F709C24A240FCCC9AD8DCC2E205AE15A04DCFFA7EFC0E08F58EA61",
+    "asset_bytes":  37482496,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-28T18:05:38Z",
-    "notes":  "默认实时Markdown编辑；保存、阅读和更多移至标题图标；恢复关闭按钮，移除双层边框和页脚说明，保留自动草稿与独立便签保存。"
+    "published_utc":  "2026-10-28T18:31:34Z",
+    "notes":  "草稿与历史统一可折叠卡片，持久化上下排序，记下后增量更新；菜单、配色与动效使用桌宠统一视觉，保留自动草稿与独立便签。"
 }
