@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.80.1.0",
-    "informational_version":  "3.80.1.0-preview",
-    "asset_commit":  "8224b9b7cc84934d680842f65a9d40a468723ff0",
-    "asset_filename":  "NudouDesktopPet-3.80.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.80.1.0/NudouDesktopPet-3.80.1.0-preview-setup.exe",
-    "asset_sha256":  "41E2C8FEA92BF0BC940EDBDD460CF896DC247F41EB7A9FD6E8302B252063C9CA",
-    "asset_bytes":  37472768,
+    "version":  "3.81.0.0",
+    "informational_version":  "3.81.0.0-preview",
+    "asset_commit":  "7498e2a529e43026c4598caf95ddb12974d8bad7",
+    "asset_filename":  "NudouDesktopPet-3.81.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.81.0.0/NudouDesktopPet-3.81.0.0-preview-setup.exe",
+    "asset_sha256":  "D8E91CAD05DB76BC94362C91EE3ECCBED56038FF285A919B39E0173D5E0DAB78",
+    "asset_bytes":  37475328,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-28T17:26:25Z",
-    "notes":  "精简快记主窗与独立便签：置顶改为右上角图标，移除关闭按钮，搜索筛选按需展开。修复临时菜单关闭期间提前释放对象导致桌宠退出的问题。"
+    "published_utc":  "2026-10-28T18:05:38Z",
+    "notes":  "默认实时Markdown编辑；保存、阅读和更多移至标题图标；恢复关闭按钮，移除双层边框和页脚说明，保留自动草稿与独立便签保存。"
 }
