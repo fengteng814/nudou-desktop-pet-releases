@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.80.0.0",
-    "informational_version":  "3.80.0.0-preview",
-    "asset_commit":  "606e2e25ca549b882998b05b2a7dd468ab4b6fb6",
-    "asset_filename":  "NudouDesktopPet-3.80.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.80.0.0/NudouDesktopPet-3.80.0.0-preview-setup.exe",
-    "asset_sha256":  "60F3B7665F7AB715530BD191B105A73CE4D1482F31A7F0E2EF98826030470F87",
-    "asset_bytes":  37471232,
+    "version":  "3.80.1.0",
+    "informational_version":  "3.80.1.0-preview",
+    "asset_commit":  "8224b9b7cc84934d680842f65a9d40a468723ff0",
+    "asset_filename":  "NudouDesktopPet-3.80.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.80.1.0/NudouDesktopPet-3.80.1.0-preview-setup.exe",
+    "asset_sha256":  "41E2C8FEA92BF0BC940EDBDD460CF896DC247F41EB7A9FD6E8302B252063C9CA",
+    "asset_bytes":  37472768,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-28T17:01:46Z",
-    "notes":  "便签可单独换颜色并设置新便签默认色；折叠便签拖出成为独立桌面便签，同一记录双向更新；在便签底部选择已有Obsidian仓库并发送Markdown和图片。并发编辑遇到冲突时保留当前文字，不覆盖另一窗口更新。"
+    "published_utc":  "2026-10-28T17:26:25Z",
+    "notes":  "精简快记主窗与独立便签：置顶改为右上角图标，移除关闭按钮，搜索筛选按需展开。修复临时菜单关闭期间提前释放对象导致桌宠退出的问题。"
 }
