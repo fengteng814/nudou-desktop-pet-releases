@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.88.0.0",
-    "informational_version":  "3.88.0.0-preview",
-    "asset_commit":  "a932882d9a23de79f87da28b42e7c5c4267e373c",
-    "asset_filename":  "NudouDesktopPet-3.88.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.88.0.0/NudouDesktopPet-3.88.0.0-preview-setup.exe",
-    "asset_sha256":  "446C0CAA122E00A1EC635DABEBBD8C7051E60C26AF35135BE1DF3B5803BD9AA3",
+    "version":  "3.88.1.0",
+    "informational_version":  "3.88.1.0-preview",
+    "asset_commit":  "a1bfc8cd4ed8886eccef37d2aa57c1b27d267eee",
+    "asset_filename":  "NudouDesktopPet-3.88.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.88.1.0/NudouDesktopPet-3.88.1.0-preview-setup.exe",
+    "asset_sha256":  "22F087604396710613CB1CEFDD1295879182A490239CEF2E766D7B22127B2558",
     "asset_bytes":  59400192,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-29T23:48:30Z",
-    "notes":  "动作权重支持一键平均分配，透明动画预览可调整大小与位置，便签图标补充悬停提示。"
+    "published_utc":  "2026-10-29T23:58:41Z",
+    "notes":  "简化快记和独立便签标题栏，隐藏标题文字，保留图标、拖动、双击收放与提示。"
 }
