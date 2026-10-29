@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.84.0.0",
-    "informational_version":  "3.84.0.0-preview",
-    "asset_commit":  "d48df9522d566f03b4616a03f651278dd37b9395",
-    "asset_filename":  "NudouDesktopPet-3.84.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.84.0.0/NudouDesktopPet-3.84.0.0-preview-setup.exe",
-    "asset_sha256":  "238B44A2D1E6A84496E284FC441E0FFC6F5056DA1F510832C64F4BB1551C1CF9",
+    "version":  "3.84.1.0",
+    "informational_version":  "3.84.1.0-preview",
+    "asset_commit":  "238b698b88e59a387f56709bfeebf7fd73fb9245",
+    "asset_filename":  "NudouDesktopPet-3.84.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.84.1.0/NudouDesktopPet-3.84.1.0-preview-setup.exe",
+    "asset_sha256":  "10E1805D899F65B092884FE7CD73EEC44F14575BEF22C35F957F78C876F13BE6",
     "asset_bytes":  59382784,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-29T09:27:32Z",
-    "notes":  "Todo 主动同步与边栏留白修正；快记同级操作、直接换色、醒目 Obsidian 发送及拖动反馈；加入十项已认可动作。"
+    "published_utc":  "2026-10-29T10:03:40Z",
+    "notes":  "更新面板取消随桌宠置顶；后台提示不抢焦点，手动打开仍可正常找回。"
 }
