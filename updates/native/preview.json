@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.87.0.0",
-    "informational_version":  "3.87.0.0-preview",
-    "asset_commit":  "4928bf23a9b7ef4fe2739a37edde742b247f1dc8",
-    "asset_filename":  "NudouDesktopPet-3.87.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.87.0.0/NudouDesktopPet-3.87.0.0-preview-setup.exe",
-    "asset_sha256":  "64F8EF0BF60136AFAC299370620BAE0910BFFE78AAA09B62CDD1130602EE2F36",
-    "asset_bytes":  59399168,
+    "version":  "3.88.0.0",
+    "informational_version":  "3.88.0.0-preview",
+    "asset_commit":  "a932882d9a23de79f87da28b42e7c5c4267e373c",
+    "asset_filename":  "NudouDesktopPet-3.88.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.88.0.0/NudouDesktopPet-3.88.0.0-preview-setup.exe",
+    "asset_sha256":  "446C0CAA122E00A1EC635DABEBBD8C7051E60C26AF35135BE1DF3B5803BD9AA3",
+    "asset_bytes":  59400192,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-29T15:36:24Z",
-    "notes":  "可视化调整动作频率并悬停预览；优化独立便签与空白保存，修复玻璃效果下输入闪烁、阅读缺字和边缘缩放。"
+    "published_utc":  "2026-10-29T23:48:30Z",
+    "notes":  "动作权重支持一键平均分配，透明动画预览可调整大小与位置，便签图标补充悬停提示。"
 }
