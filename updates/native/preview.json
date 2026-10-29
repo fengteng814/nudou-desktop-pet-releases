@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.85.1.0",
-    "informational_version":  "3.85.1.0-preview",
-    "asset_commit":  "e96f3143306a0b766b76ea8f11611479f5b51901",
-    "asset_filename":  "NudouDesktopPet-3.85.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.85.1.0/NudouDesktopPet-3.85.1.0-preview-setup.exe",
-    "asset_sha256":  "39BBEDBFFBE2F85CB04A0387576A2DF2FD5EC2E6453C0645E6A18034C19FB6E5",
-    "asset_bytes":  59387904,
+    "version":  "3.86.0.0",
+    "informational_version":  "3.86.0.0-preview",
+    "asset_commit":  "9c0b3ee432d079f832879f6cf5157cff5676656a",
+    "asset_filename":  "NudouDesktopPet-3.86.0.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.86.0.0/NudouDesktopPet-3.86.0.0-preview-setup.exe",
+    "asset_sha256":  "BBA6F765C4217055B152ACA0003A1D7AD30F41A903F7BE99E10355064EE0B959",
+    "asset_bytes":  59388928,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-29T11:27:23Z",
-    "notes":  "快记新建始终位于最上方，避免已有便签闪动；精简三个点菜单，折叠、编辑和拖动操作直接在便签上完成。"
+    "published_utc":  "2026-10-29T12:48:11Z",
+    "notes":  "快记操作固定在悬停标题栏，选库改为菜单；优化文字输入、中文输入法合成、阅读显示和长文滚动。"
 }
