@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.86.0.0",
-    "informational_version":  "3.86.0.0-preview",
-    "asset_commit":  "9c0b3ee432d079f832879f6cf5157cff5676656a",
-    "asset_filename":  "NudouDesktopPet-3.86.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.86.0.0/NudouDesktopPet-3.86.0.0-preview-setup.exe",
-    "asset_sha256":  "BBA6F765C4217055B152ACA0003A1D7AD30F41A903F7BE99E10355064EE0B959",
-    "asset_bytes":  59388928,
+    "version":  "3.86.1.0",
+    "informational_version":  "3.86.1.0-preview",
+    "asset_commit":  "94aaea1748a7f7b72a9ec8e8e97abb0fbf680205",
+    "asset_filename":  "NudouDesktopPet-3.86.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.86.1.0/NudouDesktopPet-3.86.1.0-preview-setup.exe",
+    "asset_sha256":  "8514A6C694BD75B572A324D36A72F734EE17BE8F050901A17F6794F31536A79D",
+    "asset_bytes":  59389952,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-29T12:48:11Z",
-    "notes":  "快记操作固定在悬停标题栏，选库改为菜单；优化文字输入、中文输入法合成、阅读显示和长文滚动。"
+    "published_utc":  "2026-10-29T13:31:00Z",
+    "notes":  "快记编辑会话内停止自动格式改写，避免干扰输入法候选、选区及背景绘制；离开编辑后更新排版。"
 }
