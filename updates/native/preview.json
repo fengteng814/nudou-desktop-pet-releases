@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.88.5.0",
-    "informational_version":  "3.88.5.0-preview",
-    "asset_commit":  "677478d8da5f400d34ac2547f0cdbe87297cfdcc",
-    "asset_filename":  "NudouDesktopPet-3.88.5.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.88.5.0/NudouDesktopPet-3.88.5.0-preview-setup.exe",
-    "asset_sha256":  "3947793DC59B34D55129D024DB39F3506EC8BF11619C39FD8A824C8E11FF7F96",
-    "asset_bytes":  59404288,
+    "version":  "3.88.6.0",
+    "informational_version":  "3.88.6.0-preview",
+    "asset_commit":  "aba1e2524496dcebf9ce55e7cd2fda33972701d8",
+    "asset_filename":  "NudouDesktopPet-3.88.6.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.88.6.0/NudouDesktopPet-3.88.6.0-preview-setup.exe",
+    "asset_sha256":  "4C2E6BBB4360B797645029F9A92104B7AF1DF8113055E167B104C5F515304F64",
+    "asset_bytes":  59404800,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-30T02:57:56Z",
-    "notes":  "拖动便签标题栏高度滑杆时实时预览快记卡片与独立便签；保存后生效，取消或关闭设置恢复原高度。"
+    "published_utc":  "2026-10-30T15:43:32Z",
+    "notes":  "快记主窗口每次关闭时保存大小和位置，重新打开恢复；独立便签继续分别记住各自窗口。"
 }
