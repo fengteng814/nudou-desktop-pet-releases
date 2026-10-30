@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.88.3.0",
-    "informational_version":  "3.88.3.0-preview",
-    "asset_commit":  "bf6d5c821c714b42fc540407847ce94abf5cb9d0",
-    "asset_filename":  "NudouDesktopPet-3.88.3.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.88.3.0/NudouDesktopPet-3.88.3.0-preview-setup.exe",
-    "asset_sha256":  "A90A9D409FF4F53C7DB796BCEA198056A79B21EBF595E3DC2375431468733558",
-    "asset_bytes":  59401728,
+    "version":  "3.88.4.0",
+    "informational_version":  "3.88.4.0-preview",
+    "asset_commit":  "a526eaccf41e0d4bc51b473279c8a368df49bf69",
+    "asset_filename":  "NudouDesktopPet-3.88.4.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.88.4.0/NudouDesktopPet-3.88.4.0-preview-setup.exe",
+    "asset_sha256":  "A2F559CE020F44F2AD5EC986648B689A59D67295D97CCCC088E6A098F63A190A",
+    "asset_bytes":  59403264,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-30T01:01:26Z",
-    "notes":  "展开便签时显示标题栏与正文分隔线；快记窗口支持调整大小并记住窗口尺寸。"
+    "published_utc":  "2026-10-30T01:29:09Z",
+    "notes":  "独立便签分别记住窗口大小和位置；一个便签标题栏高度设置统一调整快记卡片与独立便签。"
 }
