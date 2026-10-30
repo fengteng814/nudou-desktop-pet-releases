@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.88.1.0",
-    "informational_version":  "3.88.1.0-preview",
-    "asset_commit":  "a1bfc8cd4ed8886eccef37d2aa57c1b27d267eee",
-    "asset_filename":  "NudouDesktopPet-3.88.1.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.88.1.0/NudouDesktopPet-3.88.1.0-preview-setup.exe",
-    "asset_sha256":  "22F087604396710613CB1CEFDD1295879182A490239CEF2E766D7B22127B2558",
-    "asset_bytes":  59400192,
+    "version":  "3.88.2.0",
+    "informational_version":  "3.88.2.0-preview",
+    "asset_commit":  "b00ba911808e396463441a46adbdaa00b70d486c",
+    "asset_filename":  "NudouDesktopPet-3.88.2.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.88.2.0/NudouDesktopPet-3.88.2.0-preview-setup.exe",
+    "asset_sha256":  "9A1C4DBCB77A4D451BD2999AACA5334EF487423D7B3936E0C0C511C9534970AD",
+    "asset_bytes":  59400704,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-29T23:58:41Z",
-    "notes":  "简化快记和独立便签标题栏，隐藏标题文字，保留图标、拖动、双击收放与提示。"
+    "published_utc":  "2026-10-30T00:16:12Z",
+    "notes":  "修复独立便签按钮悬停时文字提示未显示的问题。"
 }
