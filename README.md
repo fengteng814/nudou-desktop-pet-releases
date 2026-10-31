@@ -1,8 +1,8 @@
 # 努豆桌宠
 
-Windows 桌面伙伴，陪伴日常工作与生活。当前版本：**3.88.7.0 Preview**。
+Windows 桌面伙伴，陪伴日常工作与生活。当前版本：**3.89.0.0 Preview**。
 
-**[下载安装包](https://raw.githubusercontent.com/fengteng814/nudou-desktop-pet-releases/8ab166a5a479aaf53df0bb0506287e740446eda5/distribution/preview/3.88.7.0/NudouDesktopPet-3.88.7.0-preview-setup.exe)** · [便携版 ZIP](https://raw.githubusercontent.com/fengteng814/nudou-desktop-pet-releases/8ab166a5a479aaf53df0bb0506287e740446eda5/distribution/preview/3.88.7.0/NudouDesktopPet-3.88.7.0-Extract-And-Run.zip)
+**[下载安装包](https://raw.githubusercontent.com/fengteng814/nudou-desktop-pet-releases/7e1cb03c77f9a7ccef3d00e365720b7bff854660/distribution/preview/3.89.0.0/NudouDesktopPet-3.89.0.0-preview-setup.exe)** · [便携版 ZIP](https://raw.githubusercontent.com/fengteng814/nudou-desktop-pet-releases/7e1cb03c77f9a7ccef3d00e365720b7bff854660/distribution/preview/3.89.0.0/NudouDesktopPet-3.89.0.0-Extract-And-Run.zip)
 
 ## 功能与版本
 
@@ -16,7 +16,7 @@ Windows 桌面伙伴，陪伴日常工作与生活。当前版本：**3.88.7.0 P
 
 - [安装与更新](docs/installation.md)：首次安装、升级和便携版使用。
 - [任务服务配对](docs/task-service.md)：通过配对码连接已授权的任务服务。
-- [校验安装包](https://raw.githubusercontent.com/fengteng814/nudou-desktop-pet-releases/8ab166a5a479aaf53df0bb0506287e740446eda5/distribution/preview/3.88.7.0/SHA256SUMS.txt)：核对下载文件的 SHA256。
+- [校验安装包](https://raw.githubusercontent.com/fengteng814/nudou-desktop-pet-releases/7e1cb03c77f9a7ccef3d00e365720b7bff854660/distribution/preview/3.89.0.0/SHA256SUMS.txt)：核对下载文件的 SHA256。
 
 需要 Windows .NET Framework 4.8。已有桌宠可通过右键 → 设置 → 检查更新获取新版，安装或更新由用户确认。
 
