@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.88.6.0",
-    "informational_version":  "3.88.6.0-preview",
-    "asset_commit":  "aba1e2524496dcebf9ce55e7cd2fda33972701d8",
-    "asset_filename":  "NudouDesktopPet-3.88.6.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.88.6.0/NudouDesktopPet-3.88.6.0-preview-setup.exe",
-    "asset_sha256":  "4C2E6BBB4360B797645029F9A92104B7AF1DF8113055E167B104C5F515304F64",
+    "version":  "3.88.7.0",
+    "informational_version":  "3.88.7.0-preview",
+    "asset_commit":  "8ab166a5a479aaf53df0bb0506287e740446eda5",
+    "asset_filename":  "NudouDesktopPet-3.88.7.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.88.7.0/NudouDesktopPet-3.88.7.0-preview-setup.exe",
+    "asset_sha256":  "346CFEB9119F0A255722D175ED6AC7D47E3E98BB3EEE39046CE4C9A9F7B6D68E",
     "asset_bytes":  59404800,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-30T15:43:32Z",
-    "notes":  "快记主窗口每次关闭时保存大小和位置，重新打开恢复；独立便签继续分别记住各自窗口。"
+    "published_utc":  "2026-10-31T01:06:09Z",
+    "notes":  "快记主窗口先完成布局与背景准备，再平滑出现，修复出现前闪白块的问题；遵循统一动画设置。"
 }
