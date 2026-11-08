@@ -3,14 +3,14 @@
     "channel":  "preview",
     "owner":  "fengteng814",
     "repository":  "nudou-desktop-pet-releases",
-    "version":  "3.89.0.0",
-    "informational_version":  "3.89.0.0-preview",
-    "asset_commit":  "7e1cb03c77f9a7ccef3d00e365720b7bff854660",
-    "asset_filename":  "NudouDesktopPet-3.89.0.0-preview-setup.exe",
-    "asset_path":  "distribution/preview/3.89.0.0/NudouDesktopPet-3.89.0.0-preview-setup.exe",
-    "asset_sha256":  "DF00C1B1BA5EBF84FEF655B9D449AE438360738BC8AF1A7132E1F1D6BC067866",
-    "asset_bytes":  59407360,
+    "version":  "3.89.1.0",
+    "informational_version":  "3.89.1.0-preview",
+    "asset_commit":  "78c1f45847fb3e57a121c37ce65e00143d5fa072",
+    "asset_filename":  "NudouDesktopPet-3.89.1.0-preview-setup.exe",
+    "asset_path":  "distribution/preview/3.89.1.0/NudouDesktopPet-3.89.1.0-preview-setup.exe",
+    "asset_sha256":  "D4A31908CDF94FF97711EE605EA5BB1D6240946B29C03576A5B1863E2D1A2670",
+    "asset_bytes":  59408896,
     "installer_kind":  "nudou-native-exe-v1",
-    "published_utc":  "2026-10-31T01:59:30Z",
-    "notes":  "快记主窗口和独立便签统一打开、关闭动画，跟随整体视觉设置；继续改进首次出现的白块问题。"
+    "published_utc":  "2026-11-08T04:52:32Z",
+    "notes":  "修复其他终端已完成后本机完成待确认卡住；简化单条待办同步处理窗口。"
 }
